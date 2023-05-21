@@ -1,0 +1,9 @@
+poetryenv/
+.env
+.idea
+__pycache__
+*.pytest_cache
+*.pyc
+*.pyo
+__pycache__/
+.git
