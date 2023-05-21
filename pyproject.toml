@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "langchain-openai"
+version = "0.1.0"
+description = ""
+authors = ["jeSoosRemirez <dkhomych0091@gmail.com>"]
+readme = "README.md"
+packages = [{include = "langchain_openai"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
